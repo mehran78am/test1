@@ -1,0 +1,28 @@
+body {
+    padding: 15px;
+    background-color: rgb(28, 39, 39);
+}
+
+* {
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+
+header {
+    background-color: rgb(236, 236, 156);
+    font-size: 18px;
+    padding: 15px;
+}
+
+section {
+    background-color: burlywood;
+    padding: 15px 10px;
+}
+
+footer {
+    padding: 15px 10px;
+    background-color: black;
+    color: white;
+}
